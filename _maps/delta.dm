@@ -14,7 +14,16 @@ z7 = empty
 
 #if !defined(MAP_FILE)
 
+        #include "map_files\delta\delta.dmm"
+        #include "map_files\delta\z2.dmm"
+        #include "map_files\delta\z3.dmm"
+        #include "map_files\delta\z4.dmm"
+        #include "map_files\delta\z5.dmm"
+        #include "map_files\delta\z6.dmm"
+        #include "map_files\delta\z7.dmm"
 
+        #define MAP_FILE "delta.dmm"
+        #define MAP_NAME "NSS Cyberiad-Delta"
         #define MAP_TRANSITION_CONFIG list(\
 DECLARE_LEVEL(MAIN_STATION, CROSSLINKED, list(STATION_LEVEL,STATION_CONTACT,REACHABLE,AI_OK)),\
 DECLARE_LEVEL(CENTCOMM, SELFLOOPING, list(ADMIN_LEVEL, BLOCK_TELEPORT, IMPEDES_MAGIC)),\
