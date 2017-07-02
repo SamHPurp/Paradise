@@ -15,12 +15,12 @@ z7 = empty
 #if !defined(MAP_FILE)
 
         #include "map_files\delta\delta.dmm"
-        #include "map_files\delta\z2.dmm"
-        #include "map_files\delta\z3.dmm"
-        #include "map_files\delta\z4.dmm"
-        #include "map_files\delta\z5.dmm"
-        #include "map_files\delta\z6.dmm"
-        #include "map_files\delta\z7.dmm"
+        #include "map_files\cyberiad\z2.dmm"
+        #include "map_files\cyberiad\z3.dmm"
+        #include "map_files\cyberiad\z4.dmm"
+        #include "map_files\cyberiad\z5.dmm"
+        #include "map_files\cyberiad\z6.dmm"
+        #include "map_files\cyberiad\z7.dmm"
 
         #define MAP_FILE "delta.dmm"
         #define MAP_NAME "NSS Cyberiad-Delta"
