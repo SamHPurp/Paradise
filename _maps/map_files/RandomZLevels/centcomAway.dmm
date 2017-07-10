@@ -547,7 +547,7 @@
 "kA" = (/obj/machinery/door/poddoor/shutters{id_tag = "XCCsec1"; name = "XCC Checkpoint 1 Shutters"},/turf/simulated/floor/plasteel{icon_state = "delivery"},/area/awaymission/centcomAway/general)
 "kB" = (/obj/machinery/door/poddoor/shutters{id_tag = "XCCsec2"; name = "XCC Checkpoint 2 Shutters"},/turf/simulated/floor/plasteel{icon_state = "delivery"},/area/awaymission/centcomAway/general)
 "kC" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/awaymission/centcomAway/general)
-"kD" = (/obj/effect/landmark{name = "awaystart"},/turf/simulated/floor/plasteel{icon_state = "dark"},/area/awaymission/centcomAway/hangar)
+"kD" = (/obj/effect/landmark/awaystart,/turf/simulated/floor/plasteel{icon_state = "dark"},/area/awaymission/centcomAway/hangar)
 "kE" = (/obj/structure/sign/vacuum,/turf/simulated/wall/r_wall,/area/awaymission/centcomAway/general)
 "kF" = (/obj/structure/flora/ausbushes,/turf/simulated/floor/plasteel{dir = 6; icon_state = "asteroid8"; name = "sand"; tag = "icon-asteroid8 (SOUTHEAST)"},/area/awaymission/centcomAway/general)
 "kG" = (/obj/structure/flora/ausbushes,/turf/simulated/floor/plasteel{tag = "icon-asteroid5"; name = "plating"; icon_state = "asteroid5"},/area/awaymission/centcomAway/general)

@@ -86,7 +86,7 @@
 "bH" = (/turf/simulated/floor/plasteel,/area/awaymission/gateroom)
 "bI" = (/obj/machinery/door_control{id = "challenge"; name = "Gateway Lockdown"; pixel_x = -4; pixel_y = 26; req_access_txt = "0"},/turf/simulated/floor/plasteel{dir = 1; icon_state = "warning"},/area/awaymission/gateroom)
 "bJ" = (/obj/machinery/atmospherics/unary/vent_scrubber{on = 1},/turf/simulated/floor/plasteel{dir = 1; icon_state = "warning"},/area/awaymission/gateroom)
-"bK" = (/obj/effect/landmark{name = "awaystart"},/turf/simulated/floor/greengrid,/area/awaymission/gateroom)
+"bK" = (/obj/effect/landmark/awaystart,/turf/simulated/floor/greengrid,/area/awaymission/gateroom)
 "bL" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 5},/turf/simulated/floor/plasteel,/area/awaymission/gateroom)
 "bM" = (/obj/machinery/atmospherics/pipe/manifold4w/hidden/scrubbers,/obj/item/weapon/paper/journal_scrap_1,/turf/simulated/floor/plasteel,/area/awaymission/gateroom)
 "bN" = (/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{dir = 9},/turf/simulated/floor/plasteel,/area/awaymission/gateroom)
